@@ -1,5 +1,6 @@
 # Portfolio
-Welcome to my portfolio website! This website showcases my skills, projects, and experiences as a web developer.
+Welcome to my portfolio website! 
+This website showcases my skills.
 
 Features
 The website includes the following features:
